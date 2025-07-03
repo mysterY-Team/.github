@@ -1,0 +1,119 @@
+[
+    {
+        "nick": "patYczakus",
+        "name": "Patryk",
+        "title": "Normalnie nienormalny",
+        "founder": true,
+        "discordId": "1166024655052738570",
+        "avatar": {
+            "url": "",
+            "bg": ""
+        },
+        "desc": "",
+        "roles": {
+            "fields": [ "programmer", "designer" ]
+            "caretaker": [ "Globally", "Starcie Internetu" ],
+            "staff": [ "Ptaszunio", "Pogromcy Tyranii", "Chillowa Przystań" ]
+        },
+        "links": [
+            { "type": "website", "url": "https://patyczakus.github.io/me" },
+            { "type": "bluesky", "url": "https://patyczakus.bsky.social" },
+            { "type": "github", "url": "https://github.com/patYczakus" },
+        ]
+    },
+    {
+        "nick": "vehti",
+        "name": "Mieszko",
+        "title": "",
+        "founder": true,
+        "discordId": "988796644407517245",
+        "avatar": {
+            "url": "",
+            "bg": ""
+        },
+        "desc": "",
+        "roles": {
+            "fields": [ "programmer", "community manager" ]
+            "caretaker": [ "Globally" ],
+            "staff": [ "Chillowa Przystań" ]
+        },
+        "link": [
+            { "type": "github", "url": "https://github.com/vxhtyy" },
+        ]
+    },
+    {
+        "nick": "starlighttt_",
+        "name": "Ewa",
+        "title": "",
+        "founder": false,
+        "discordId": "674700413026566175",
+        "avatar": {
+            "url": "",
+            "bg": ""
+        },
+        "desc": "",
+        "roles": {
+            "fields": [ "designer" ]
+            "caretaker": [],
+            "staff": [ "Starcie Internetu" ]
+        },
+        "links": [
+            { "type": "github", "url": "https://github.com/starlighttt8" },
+        ]
+    },
+    {
+        "nick": "Milczek_ok"
+        "name": "",
+        "title": "",
+        "founder": false,
+        "discordId": "1194336612868431945",
+        "avatar": {
+            "url": "",
+            "bg": ""
+        },
+        "desc": "",
+        "roles": {
+            "fields": [ "community manager" ],
+            "caretaker": [ "Chillowa Przystań" ],
+            "staff": [ "Globally" ]
+        },
+        "links": []
+    },
+    {
+        "nick": "Hu.tao",
+        "name": "",
+        "title": "",
+        "founder": false,
+        "discordId": "1103221384320122890",
+        "avatar": {
+            "url": "",
+            "bg": ""
+        },
+        "desc": "",
+        "roles": {
+            "fields": [ "programmer" ]
+            "caretaker": [ "Ptaszunio" ],
+            "staff": [ "Globally" ]
+        },
+        "links": [
+            { "type": "github", "url": "https://github.com/huu-taoo" },
+        ]
+    },
+    {
+        "nick": "PawełB",
+        "name": "Paweł"
+        "title": "",
+        "founder": false,
+        "discordId": "469128746876665876",
+        "avatar": {
+            "url": "",
+            "bg": "",
+        },
+        "desc": "",
+        "roles": {
+            "fields": [ "programmer" ],
+            "caretaker": [ "Pogromcy Tyranii" ],
+            "staff": [ "Globally" ]
+        }
+    }
+]
