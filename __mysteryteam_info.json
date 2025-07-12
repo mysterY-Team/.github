@@ -11,14 +11,14 @@
         },
         "desc": "",
         "roles": {
-            "fields": [ "programmer", "designer" ]
+            "fields": [ "programmer", "designer" ],
             "caretaker": [ "Globally", "Starcie Internetu" ],
             "staff": [ "Ptaszunio", "Pogromcy Tyranii", "Chillowa Przystań" ]
         },
         "links": [
             { "type": "website", "url": "https://patyczakus.github.io/me" },
             { "type": "bluesky", "url": "https://patyczakus.bsky.social" },
-            { "type": "github", "url": "https://github.com/patYczakus" },
+            { "type": "github", "url": "https://github.com/patYczakus" }
         ]
     },
     {
@@ -33,12 +33,12 @@
         },
         "desc": "",
         "roles": {
-            "fields": [ "programmer", "community manager" ]
+            "fields": [ "programmer", "community manager" ],
             "caretaker": [ "Globally" ],
             "staff": [ "Chillowa Przystań" ]
         },
         "link": [
-            { "type": "github", "url": "https://github.com/vxhtyy" },
+            { "type": "github", "url": "https://github.com/vxhtyy" }
         ]
     },
     {
@@ -53,16 +53,16 @@
         },
         "desc": "",
         "roles": {
-            "fields": [ "designer" ]
+            "fields": [ "designer" ],
             "caretaker": [],
             "staff": [ "Starcie Internetu" ]
         },
         "links": [
-            { "type": "github", "url": "https://github.com/starlighttt8" },
+            { "type": "github", "url": "https://github.com/starlighttt8" }
         ]
     },
     {
-        "nick": "Milczek_ok"
+        "nick": "Milczek_ok",
         "name": "",
         "title": "",
         "founder": false,
@@ -91,17 +91,17 @@
         },
         "desc": "",
         "roles": {
-            "fields": [ "programmer" ]
+            "fields": [ "programmer" ],
             "caretaker": [ "Ptaszunio" ],
             "staff": [ "Globally" ]
         },
         "links": [
-            { "type": "github", "url": "https://github.com/huu-taoo" },
+            { "type": "github", "url": "https://github.com/huu-taoo" }
         ]
     },
     {
         "nick": "PawełB",
-        "name": "Paweł"
+        "name": "Paweł",
         "title": "",
         "founder": false,
         "discordId": "469128746876665876",
@@ -114,6 +114,9 @@
             "fields": [ "programmer" ],
             "caretaker": [ "Pogromcy Tyranii" ],
             "staff": [ "Globally" ]
-        }
+        },
+        "links": [
+            { "type": "github", "url": "https://github.com/pawelek-dev" }
+        ]
     }
 ]
