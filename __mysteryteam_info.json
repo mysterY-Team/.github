@@ -2,14 +2,14 @@
     {
         "nick": "patYczakus",
         "name": "Patryk",
-        "title": "Normalnie nienormalny",
+        "title": "Normalnie nienormalny patyczak",
         "founder": true,
         "discordId": "1166024655052738570",
         "avatar": {
             "url": "",
             "bg": ""
         },
-        "desc": "",
+        "desc": "Koleżka w pełni oddający się w pełni pasji programowania. Pomocny, ale stanowczy. Współwłaściciel wielu serweró oraz moderator everi.",
         "roles": {
             "fields": [ "programmer", "designer" ],
             "caretaker": [ "Globally", "Starcie Internetu" ],
@@ -24,7 +24,7 @@
     {
         "nick": "vehti",
         "name": "Mieszko",
-        "title": "",
+        "title": "777",
         "founder": true,
         "discordId": "988796644407517245",
         "avatar": {
@@ -44,7 +44,7 @@
     {
         "nick": "starlighttt_",
         "name": "Ewa",
-        "title": "",
+        "title": "The star through time",
         "founder": false,
         "discordId": "674700413026566175",
         "avatar": {
@@ -64,7 +64,7 @@
     {
         "nick": "Milczek_ok",
         "name": "",
-        "title": "",
+        "title": "Najbardziej chillowy gość",
         "founder": false,
         "discordId": "1194336612868431945",
         "avatar": {
@@ -82,7 +82,7 @@
     {
         "nick": "Hu.tao",
         "name": "",
-        "title": "",
+        "title": "Cutecore alike person",
         "founder": false,
         "discordId": "1103221384320122890",
         "avatar": {
@@ -102,14 +102,14 @@
     {
         "nick": "PawełB",
         "name": "Paweł",
-        "title": "",
+        "title": "Kociak z piwa i kości",
         "founder": false,
         "discordId": "469128746876665876",
         "avatar": {
             "url": "",
             "bg": ""
         },
-        "desc": "",
+        "desc": "Najstarszy wiekowo członek drużyny. Programista pythonowy i przeciętny konsumer piwa. Uwzględnia takie duże projekty jak TopBots, Beer World, Dapher, AdviceBot czy TechnoStrefa",
         "roles": {
             "fields": [ "programmer" ],
             "caretaker": [ "Pogromcy Tyranii" ],
