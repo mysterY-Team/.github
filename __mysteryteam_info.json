@@ -80,26 +80,6 @@
         "links": []
     },
     {
-        "nick": "Hu.tao",
-        "name": "",
-        "title": "Cutecore alike person",
-        "founder": false,
-        "discordId": "1103221384320122890",
-        "avatar": {
-            "url": "",
-            "bg": ""
-        },
-        "desc": "",
-        "roles": {
-            "fields": [ "programmer" ],
-            "caretaker": [ "Ptaszunio" ],
-            "staff": [ "Globally" ]
-        },
-        "links": [
-            { "type": "github", "url": "https://github.com/huu-taoo" }
-        ]
-    },
-    {
         "nick": "PawełB",
         "name": "Paweł",
         "title": "Kociak z piwa i kości",
